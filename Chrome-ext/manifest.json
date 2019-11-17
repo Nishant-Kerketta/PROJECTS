@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Google Redirect",
+  "description": "This extension will redirect video pages to Google",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "sampleicon.jpg",
+   "default_popup": "myextension.html"
+  },
+  "background": {"scripts":["myscript.js"]},
+  "permissions": [
+   "activeTab"
+   ]
+}
