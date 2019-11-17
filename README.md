@@ -1,10 +1,9 @@
 # Projects
 Google Redirect- Chrome Extension
 
-A chrome extension which automatically redirects the webpage to www.google.com when the chrome extension tab is clicked.
+A chrome extension which will automatically redirect the webpage to www.google.com when the chrome extension tab is clicked.
 
-HOW TO INSTALL A DEVELOPER VERSION
-git clone git@github.com:voximplant/voximplant-chrome-extension.git
+HOW TO INSTALL A DEVELOPER VERSION:-
 
 STEP 1- Open google chrome browser.
 STEP 2- In the address bar on a new tab, type chrome://extensions to open the Extensions page. 
